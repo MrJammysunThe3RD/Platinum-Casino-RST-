@@ -1,5 +1,5 @@
 #Matteo Bascur & Arda Mumcu
-#Jan 17, 2024
+#Jan 17, 2024.
 #Virtual Casino (RST)
 import random
 balance = 1000
